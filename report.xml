@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Test suite" tests="6" assertions="6" errors="0" failures="0" skipped="0" time="0.005668">
+    <testsuite name="RobotTest" file="/home/mhmd/bot/maqebot/robot2/tests/unit/RobotTest.php" tests="6" assertions="6" errors="0" failures="0" skipped="0" time="0.005668">
+      <testcase name="testTrueAssertsToTrue" class="RobotTest" classname="RobotTest" file="/home/mhmd/bot/maqebot/robot2/tests/unit/RobotTest.php" line="9" assertions="1" time="0.002584"/>
+      <testcase name="testRobotMoveRight" class="RobotTest" classname="RobotTest" file="/home/mhmd/bot/maqebot/robot2/tests/unit/RobotTest.php" line="14" assertions="1" time="0.000603"/>
+      <testcase name="testRobotMoveLeft" class="RobotTest" classname="RobotTest" file="/home/mhmd/bot/maqebot/robot2/tests/unit/RobotTest.php" line="21" assertions="1" time="0.000300"/>
+      <testcase name="testRobotIntialDirectionToNorth" class="RobotTest" classname="RobotTest" file="/home/mhmd/bot/maqebot/robot2/tests/unit/RobotTest.php" line="29" assertions="1" time="0.000166"/>
+      <testcase name="testRobotIntialXAxisIsZero" class="RobotTest" classname="RobotTest" file="/home/mhmd/bot/maqebot/robot2/tests/unit/RobotTest.php" line="35" assertions="1" time="0.000258"/>
+      <testcase name="testRobotIntialYAxisIsZero" class="RobotTest" classname="RobotTest" file="/home/mhmd/bot/maqebot/robot2/tests/unit/RobotTest.php" line="41" assertions="1" time="0.001757"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
